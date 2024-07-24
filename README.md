@@ -1,8 +1,6 @@
 # About me 👋
 
-**Albavina/Albavina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Albavina/Albavina** is a ✨ _special_ ✨ repository because its `README.md` 
 
 - 🌱 I’m currently learning Full Stack Web Development with CodeOp 💪
 - 👯 I’m looking to collaborate on all the projects that will be created through the course.
