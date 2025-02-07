@@ -1,14 +1,26 @@
-# About me 👋
+# 👋 Hi! I'm Alba Vilar Navarrete  
+🚀 **Full Stack Developer | Problem Solver | Tech Enthusiast**  
 
-My name is **Alba** and I want to provide some info about me 😊:
+I am a Full Stack Developer with experience in **JavaScript (ES6+), React.js, Vue.js, Node.js, and MySQL**.  
+I am passionate about building efficient, scalable applications focused on user experience.  
 
-- 🌱 I’ve just completed the Bootcamp "Full Stack Web Development" at CodeOp 💪
-- 👯 I’m looking to collaborate on different projects in order to practice and improve what we have learned through the bootcamp.
-- 🤔 I’m looking for help with probably everything regarding software development 😅
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love pets! (I have 4 dogs and 2 cats!)😻
-- 📫 How to reach me:
-```
-    By email: alba.vilar81@gmail.com
-    By LinkedIn: www.linkedin.com/in/alba-vilar-navarrete 
-```
+## 🔹 My skills include:  
+- 🖥️ Frontend development with **React.js, Vue.js, HTML5, CSS3, and Bootstrap**  
+- ⚙️ Backend with **Node.js, Express, JWT, and Bcrypt**  
+- 🗄️ Database management with **MySQL**  
+- 🔄 Version control with **Git/GitHub**  
+- 🤝 Team collaboration using **Trello, Postman, and Agile methodologies**  
+
+## 💡 Highlighted projects:  
+- 🥕 **El Huertico**: A platform to manage urban gardens with personalized recommendations.  
+- 🍽️ **Kitchen Alchemist**: A recipe application based on ingredients and dietary restrictions.  
+- 🐶 **Rescue a Best Friend**: A platform to facilitate pet adoptions in animal shelters.  
+
+## 📍 Current Work  
+I am currently collaborating on the **EU-FMD project** for the **European Commission**, optimizing web platforms for animal disease control.  
+
+## 🔍 Looking for new challenges  
+I am always looking for new challenges and opportunities to continue learning and growing in the world of web development.  
+
+## 📫 Let's connect!  
+[📧 Email Me](mailto:alba.vilar81@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/alba-vilar-navarrete) | [🐙 GitHub](https://github.com/Albavina)
